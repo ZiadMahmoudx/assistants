@@ -7,7 +7,7 @@ import siriImage from "./images/siri.png"
 function App() {
   return (
     <>
-      <section className="hero is-info mb-6">
+      <section className="hero is-info mb-">
         <div className="hero-body">
           <p className="title">The assistants</p>
         </div>
